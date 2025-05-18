@@ -1,0 +1,1 @@
+To add the "any flags" and "no red flags" you need to create a new flag_values() function in helpers (see [here](https://github.com/wzkariampuzha/anki__BetterSearch/blob/d553d7d893bf1f403e85215a9db5d76e94e2b674/src/helpers.py#L31C1-L38C21)) then you need to trace the is:  functions all the way back and copy them. 
